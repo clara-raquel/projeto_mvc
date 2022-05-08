@@ -1,0 +1,16 @@
+{
+    "name": "clara/projeto_mvc",
+    
+    "authors": [
+        {
+            "name": "clara-raquel",
+            "email": "clarasantiago3@hotmail.com"
+        }
+    ],
+    "autoload": { 
+        "psr-4": { 
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
